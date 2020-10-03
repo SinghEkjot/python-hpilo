@@ -39,7 +39,7 @@ Entering a license key and creating a user, from the shell:
 
 Compatibility
 -------------
-This module is written with compatibility as main priority. Currently supported
+This module is written with compatibility as main priority. Currently supported platforms and their versions
 are:
 
 * All RILOE II/iLO versions up to and including iLO 4
